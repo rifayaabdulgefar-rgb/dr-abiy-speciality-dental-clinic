@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Abiy Specialty Dental Clinic",
+  "description": "Aesthetic and professional clinic website for Dr. Abiy Specialty Dental Clinic in Addis Ababa, featuring advanced dental treatments, interactive appointment booking, smile visualizer, and patient care guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
